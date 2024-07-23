@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: ghostwhite;
+    align-items: right;
+}
+.container{
+    max-width: 400px;
+    background-color: antiquewhite;
+    border-radius: 10px ;
+    margin: 0 auto;
+}
+
+.zero {
+    display: flex;
+    gap: 16px;
+    border: 1px solid blue;
+}
+svg{
+    display: inline-block;
+}
