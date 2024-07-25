@@ -63,3 +63,19 @@ body {
 .price-icon {
     color: rgb(230, 222, 78);
 }
+.calender {
+        display: flex;
+        gap: 5px;
+}
+.pack-test {
+    display: flex;
+    gap: 5px;
+}
+.pack-price{
+    display: flex;
+    gap: 5px;
+}
+.text-card{
+    display: flex;
+    gap: 5px;
+}
